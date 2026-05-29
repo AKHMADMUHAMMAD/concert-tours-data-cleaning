@@ -1,16 +1,16 @@
-# 🎤 Concert Tours Data Cleaning Project
+# Concert Tours Data Cleaning Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on cleaning and transforming a messy dataset of global concert tours into a structured, analysis-ready dataset.
 
-## 🧹 Data Cleaning Steps
+##  Data Cleaning Steps
 - Removed special characters ($, commass, symbols)
 - Fixed inconsistent column names
 - Handled missing values
 - Extracted start and end years from tour duration
 - Converted numerical columns to proper data types
 
-## 📊 Final Features
+##  Final Features
 - Artist
 - Tour title
 - Total gross revenue
@@ -19,15 +19,15 @@ This project focuses on cleaning and transforming a messy dataset of global conc
 - Shows
 - Revenue per show (derived)
 
-## 🛠 Tools
+##  Tools
 - Python
 - Pandas
 - Jupyter Notebook
 
-## 📈 Outcome
+## Outcome
 Clean dataset ready for exploratory data analysis (EDA) and visualization.
 
-## 🚀 Future Work
+## Future Work
 - Visualization with Matplotlib / Seaborn
 - Trend analysis of top artists
 - Revenue comparison across years
